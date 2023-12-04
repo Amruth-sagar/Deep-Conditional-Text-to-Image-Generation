@@ -18,9 +18,15 @@ learn a text feature representation that captures all the visual features presen
 the sentence and use these features to synthesize a compelling image that a
 human might mistake for real.
 
-Datasets
+## Datasets
 We have used the 102 Category Flower dataset for the task.
 Stats:
 - Images per category of flower : [images per category](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/categories.html)
 - No of images per category : 40 to 258
 - No of description per image : 10
+
+## Reference
+[1] [Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, and Honglak Lee.
+2016. Generative adversarial text to image synthesis. In Proceedings of the 33rd International
+Conference on International Conference on Machine Learning - Volume 48 (ICML'16). JMLR.org,
+1060–1069](https://arxiv.org/abs/1605.05396)
